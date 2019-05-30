@@ -21,9 +21,11 @@ e.g.: `podman run -p 8080:8080 quay.io/elastifeed/es-rss:latest`
 [
     {
         "title": "Some Title",
-        "description": "This is some article about bla...",,
+        "description": "This is some article about bla...",
         "url": "Original article URL"
     },
-    ...
+    {
+        "...": "..."
+    }
 ]
 ```
